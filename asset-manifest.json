@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/yusufblbissi/movie.git/static/css/main.3cdc1bab.css",
-    "main.js": "/yusufblbissi/movie.git/static/js/main.87bdd196.js",
-    "static/js/787.6ac643bb.chunk.js": "/yusufblbissi/movie.git/static/js/787.6ac643bb.chunk.js",
-    "index.html": "/yusufblbissi/movie.git/index.html",
-    "main.3cdc1bab.css.map": "/yusufblbissi/movie.git/static/css/main.3cdc1bab.css.map",
-    "main.87bdd196.js.map": "/yusufblbissi/movie.git/static/js/main.87bdd196.js.map",
-    "787.6ac643bb.chunk.js.map": "/yusufblbissi/movie.git/static/js/787.6ac643bb.chunk.js.map"
+    "main.css": "/movie/static/css/main.3cdc1bab.css",
+    "main.js": "/movie/static/js/main.d7601e02.js",
+    "static/js/787.6ac643bb.chunk.js": "/movie/static/js/787.6ac643bb.chunk.js",
+    "index.html": "/movie/index.html",
+    "main.3cdc1bab.css.map": "/movie/static/css/main.3cdc1bab.css.map",
+    "main.d7601e02.js.map": "/movie/static/js/main.d7601e02.js.map",
+    "787.6ac643bb.chunk.js.map": "/movie/static/js/787.6ac643bb.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.3cdc1bab.css",
-    "static/js/main.87bdd196.js"
+    "static/js/main.d7601e02.js"
   ]
 }
